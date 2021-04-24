@@ -1,4 +1,4 @@
-# D3.js Data(), Datum()
+# D3 Binding
 
 ## Data() 
 
